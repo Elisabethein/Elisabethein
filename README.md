@@ -43,6 +43,7 @@ I'm Elisabet Hein, a final-year Computer Science student at the University of Ta
 ### 🚗 AI in Autonomous Driving – Bachelor's Thesis
 
 **Goal**: Automating disengagement classification using machine learning & explainable AI.
+
 **Tech**: ROS bag preprocessing, Python, AI models for classification.
 
 ### 🌐 Full-Stack Web Projects
